@@ -10,7 +10,6 @@ from bs4 import BeautifulSoup
 import concurrent.futures
 import random
 import threading
-from linker import linkpromo
 
 api_host = "http://127.0.0.1:5000"
 
